@@ -1,0 +1,17 @@
+body
+{
+	background-color:#e86f4a;
+}
+
+ul{
+	list-style-type:disc;
+
+}
+
+li,dl{
+	font-family: sans-serif;
+	color:#061954;
+	padding:6px;
+	
+
+}
